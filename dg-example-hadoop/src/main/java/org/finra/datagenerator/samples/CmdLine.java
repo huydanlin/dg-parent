@@ -48,6 +48,7 @@ import java.util.Collection;
 /**
  * An example of distributing Data Generator over Hadoop HDFS
  * using Hadoop MapReduce.
+ * This is update of comment
  */
 public final class CmdLine extends Configured implements Tool {
 
